@@ -8,5 +8,9 @@
   "keywords": [],
   "author": "Luis Carmona <luiscarmona.95@gmail.com>",
   "license": "MIT",
-  "description": ""
+  "description": "",
+  "bin":{
+    "commit-aleatorio":"./bin/global.js"
+  },
+  "preferGlobal": true
 }
