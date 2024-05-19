@@ -9,8 +9,11 @@
   "author": "Luis Carmona <luiscarmona.95@gmail.com>",
   "license": "MIT",
   "description": "",
-  "bin":{
-    "commit-aleatorio":"./bin/global.js"
+  "bin": {
+    "commit-aleatorio": "./bin/global.js"
   },
-  "preferGlobal": true
+  "preferGlobal": true,
+  "dependencies": {
+    "npm": "^10.8.0"
+  }
 }
